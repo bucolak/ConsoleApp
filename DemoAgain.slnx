@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="DemoAgain.AppHost/DemoAgain.AppHost.csproj" />
+  <Project Path="DemoAgain.Console/DemoAgain.Console.csproj" />
+  <Project Path="DemoAgain.ServiceDefaults/DemoAgain.ServiceDefaults.csproj" />
+</Solution>

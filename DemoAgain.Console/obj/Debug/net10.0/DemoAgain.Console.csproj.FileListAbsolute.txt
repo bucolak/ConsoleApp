@@ -1,0 +1,14 @@
+C:\Users\W10\source\repos\DemoAgain\DemoAgain.Console\bin\Debug\net10.0\DemoAgain.Console.exe
+C:\Users\W10\source\repos\DemoAgain\DemoAgain.Console\bin\Debug\net10.0\DemoAgain.Console.deps.json
+C:\Users\W10\source\repos\DemoAgain\DemoAgain.Console\bin\Debug\net10.0\DemoAgain.Console.runtimeconfig.json
+C:\Users\W10\source\repos\DemoAgain\DemoAgain.Console\bin\Debug\net10.0\DemoAgain.Console.dll
+C:\Users\W10\source\repos\DemoAgain\DemoAgain.Console\bin\Debug\net10.0\DemoAgain.Console.pdb
+C:\Users\W10\source\repos\DemoAgain\DemoAgain.Console\obj\Debug\net10.0\DemoAgain.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W10\source\repos\DemoAgain\DemoAgain.Console\obj\Debug\net10.0\DemoAgain.Console.AssemblyInfoInputs.cache
+C:\Users\W10\source\repos\DemoAgain\DemoAgain.Console\obj\Debug\net10.0\DemoAgain.Console.AssemblyInfo.cs
+C:\Users\W10\source\repos\DemoAgain\DemoAgain.Console\obj\Debug\net10.0\DemoAgain.Console.csproj.CoreCompileInputs.cache
+C:\Users\W10\source\repos\DemoAgain\DemoAgain.Console\obj\Debug\net10.0\DemoAgain.Console.dll
+C:\Users\W10\source\repos\DemoAgain\DemoAgain.Console\obj\Debug\net10.0\refint\DemoAgain.Console.dll
+C:\Users\W10\source\repos\DemoAgain\DemoAgain.Console\obj\Debug\net10.0\DemoAgain.Console.pdb
+C:\Users\W10\source\repos\DemoAgain\DemoAgain.Console\obj\Debug\net10.0\DemoAgain.Console.genruntimeconfig.cache
+C:\Users\W10\source\repos\DemoAgain\DemoAgain.Console\obj\Debug\net10.0\ref\DemoAgain.Console.dll
